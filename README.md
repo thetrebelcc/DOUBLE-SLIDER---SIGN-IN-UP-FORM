@@ -6,7 +6,7 @@ WEEKLY FLORIN POP CODING CHALLENGE
 
 ## Build status
 UI Done
-Future verison will have a dummy backend 
+Future verison will have a dummy backend (Mongo DB or PHP)
 
 ## Tech/framework used
 
